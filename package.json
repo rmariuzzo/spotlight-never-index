@@ -1,0 +1,17 @@
+{
+  "name": "spotlight-never-index",
+  "version": "1.0.0",
+  "description": "Exclude some folders from Spotlight.app",
+  "main": "index.js",
+  "repository": "git@github.com:rmariuzzo/spotlight-never-index.git",
+  "author": "Rubens Mariuzzo <rubens@mariuzzo.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "engines": {
+    "node": ">=6"
+  },
+  "bin": {
+    "spotlight-never-index": "./index.js",
+    "sni": "./index.js"
+  }
+}
